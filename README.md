@@ -77,10 +77,10 @@ ACE Engineering College, Hyderabad | DSA Enthusiast
 
 ---
 
-## GitHub Trophies
+## LeetCode Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MdSameer-1&theme=onestar&no-frame=true"/>
+<img src="https://leetcard.jacoblin.cool/Md_Sameer__?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@ ACE Engineering College, Hyderabad | DSA Enthusiast
 ## Connect with Me
 
 - **GitHub:** https://github.com/MdSameer-1
-- **LinkedIn:** linkedin.com/in/[YOUR_LINKEDIN]
+- **LinkedIn:** https://www.linkedin.com/in/sameer-md-li/
 - **Email:** sameermd123xyz@gmail.com
 
 ---
